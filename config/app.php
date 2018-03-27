@@ -15,6 +15,8 @@ return [
 
     'name' => env('APP_NAME', 'CI-Eletronica'),
     'titulo' => 'CI-Eletrônica',
+    'author' => 'TI - Transpen Transporte Coletivo e Encomenda LTDA',
+    'tel' => '(15) 3532 - 8400'
 
     /*
     |--------------------------------------------------------------------------
